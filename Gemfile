@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+gem 'guard'
+gem 'guard-rspec'
+gem 'guard-cucumber'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
